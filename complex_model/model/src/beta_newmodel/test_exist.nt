@@ -1,0 +1,5 @@
+<http://bio2rdf.org/drugbank:db08932> <http://bio2rdf.org/drugbank_vocabulary:drug-target> <http://bio2rdf.org/drugbank:be0000521> .
+<http://bio2rdf.org/drugbank:db08893> <http://bio2rdf.org/drugbank_vocabulary:drug-target> <http://bio2rdf.org/drugbank:be0001012> .
+<http://bio2rdf.org/drugbank:db00559> <http://bio2rdf.org/drugbank_vocabulary:drug-target> <http://bio2rdf.org/drugbank:be0000521> .
+<http://bio2rdf.org/drugbank:db01001> <http://bio2rdf.org/drugbank_vocabulary:drug-target> <http://bio2rdf.org/drugbank:be0000172> .
+<http://bio2rdf.org/drugbank:db01118> <http://bio2rdf.org/drugbank_vocabulary:drug-target> <http://bio2rdf.org/drugbank:be0000172> .
