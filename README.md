@@ -17,7 +17,7 @@ We use [BETA] (https://github.com/bioIKEA/IKEA_BETA_Benchmark#readme), which pro
 
 <table border='1' align="center">
 <tr>
-<img src="img/figure-2.png" height="800" width="2500" >
+<img src="img/figure-2.png" height="700" width="2500" >
 </tr>
 </table>
   
