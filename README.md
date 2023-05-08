@@ -1,6 +1,8 @@
+# Efficacy Prediction of Phase 3 Clinical Trial Based on Drug-target prediction 
+
 <table border='1' align="center">
 <tr>
-<img src="img/figure-1.png" height="1000" width="2500" >
+<img src="img/figure-1.png" height="800" width="2500" >
 </tr>
 </table>
 
@@ -15,7 +17,7 @@ We use [BETA] (https://github.com/bioIKEA/IKEA_BETA_Benchmark#readme), which pro
 
 <table border='1' align="center">
 <tr>
-<img src="img/figure-2.png" height="1000" width="2500" >
+<img src="img/figure-2.png" height="800" width="2500" >
 </tr>
 </table>
   
